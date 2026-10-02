@@ -1,0 +1,61 @@
+student_id,name,department,year,section,exam_subject
+STU001,Aarav Sharma,AI&DS,1,A,Artificial Intelligence
+STU002,Ananya Iyer,CSE,2,B,Data Structures
+STU003,Vihaan Patel,ECE,3,A,Database Management Systems
+STU004,Diya Reddy,AI&DS,2,B,Computer Networks
+STU005,Arjun Nair,CSE,1,A,Operating Systems
+STU006,Meera Joshi,ECE,2,B,Artificial Intelligence
+STU007,Kabir Singh,AI&DS,3,A,Data Structures
+STU008,Ishita Rao,CSE,2,B,Database Management Systems
+STU009,Rohan Mehta,ECE,1,A,Computer Networks
+STU010,Saanvi Gupta,AI&DS,1,B,Operating Systems
+STU011,Aditya Kulkarni,CSE,3,A,Artificial Intelligence
+STU012,Avani Desai,ECE,2,B,Data Structures
+STU013,Reyansh Verma,AI&DS,2,A,Database Management Systems
+STU014,Anika Menon,CSE,1,B,Computer Networks
+STU015,Karthik Kumar,ECE,3,A,Operating Systems
+STU016,Priya Shah,AI&DS,1,B,Artificial Intelligence
+STU017,Ishaan Choudhary,CSE,2,A,Data Structures
+STU018,Navya Pillai,ECE,1,B,Database Management Systems
+STU019,Dev Malhotra,AI&DS,3,A,Computer Networks
+STU020,Myra Banerjee,CSE,2,B,Operating Systems
+STU021,Arnav Das,ECE,1,A,Artificial Intelligence
+STU022,Aadhya Kapoor,AI&DS,2,B,Data Structures
+STU023,Krishna Bhat,CSE,3,A,Database Management Systems
+STU024,Pari Sinha,ECE,2,B,Computer Networks
+STU025,Shivansh Jain,AI&DS,1,A,Operating Systems
+STU026,Siya Chatterjee,CSE,2,B,Artificial Intelligence
+STU027,Harsh Venkatesh,ECE,3,A,Data Structures
+STU028,Kiara Shetty,AI&DS,2,B,Database Management Systems
+STU029,Manav Ghosh,CSE,1,A,Computer Networks
+STU030,Tara Srinivasan,ECE,2,B,Operating Systems
+STU031,Neil Fernandes,AI&DS,3,A,Artificial Intelligence
+STU032,Anvi Mishra,CSE,2,B,Data Structures
+STU033,Samar Khanna,ECE,1,A,Database Management Systems
+STU034,Ahana Roy,AI&DS,1,B,Computer Networks
+STU035,Pranav Sethi,CSE,3,A,Operating Systems
+STU036,Diya Mukherjee,ECE,2,B,Artificial Intelligence
+STU037,Veer Narayan,AI&DS,2,A,Data Structures
+STU038,Shreya Paul,CSE,1,B,Database Management Systems
+STU039,Atharv Yadav,ECE,3,A,Computer Networks
+STU040,Nisha Thomas,AI&DS,1,B,Operating Systems
+STU041,Omkar Patil,CSE,2,A,Artificial Intelligence
+STU042,Ritika Bose,ECE,1,B,Data Structures
+STU043,Abhinav Sood,AI&DS,3,A,Database Management Systems
+STU044,Saumya Kaur,CSE,2,B,Computer Networks
+STU045,Anirudh Rao,ECE,1,A,Operating Systems
+STU046,Trisha Dutta,AI&DS,2,B,Artificial Intelligence
+STU047,Yash Agarwal,CSE,3,A,Data Structures
+STU048,Manya Lal,ECE,2,B,Database Management Systems
+STU049,Rajiv Bansal,AI&DS,1,A,Computer Networks
+STU050,Simran Khatri,CSE,2,B,Operating Systems
+STU051,Parth Gupta,ECE,3,A,Artificial Intelligence
+STU052,Kavya Narang,AI&DS,2,B,Data Structures
+STU053,Chirag Arora,CSE,1,A,Database Management Systems
+STU054,Uma Krishnan,ECE,2,B,Computer Networks
+STU055,Rahul Chawla,AI&DS,3,A,Operating Systems
+STU056,Neha Saxena,CSE,2,B,Artificial Intelligence
+STU057,Siddharth Rao,ECE,1,A,Data Structures
+STU058,Ira Khurana,AI&DS,1,B,Database Management Systems
+STU059,Abhay Menon,CSE,3,A,Computer Networks
+STU060,Janvi Parmar,ECE,2,B,Operating Systems
